@@ -1,1 +1,1 @@
-Daniel Marraccini. Esto es una prueba de cómo un repositorio en GitHub y todo eso.
+Daniel Marraccini. Esto es una prueba de cómo crear un repositorio en GitHub y todo eso.
