@@ -1,2 +1,1 @@
-# first-Repository
-El primer repositorio en la nube del PrepCourse de Henry, Módulo 2
+Daniel Marraccini. Esto es una prueba de cómo un repositorio en GitHub y todo eso.
